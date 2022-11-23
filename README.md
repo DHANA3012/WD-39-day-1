@@ -1,4 +1,4 @@
-# WD-39-day-1
+# WD-41-day-1
 
 Question 1: Write a blog on Difference between HTTP1.1 vs HTTP2
 
